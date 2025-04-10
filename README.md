@@ -1,7 +1,6 @@
 # Time-Driven-Access-Control-System
-__Time-Driven Access Control System__ 
 
-__AIM__: The Time-Driven Access Control System is an embedded security solution that regulates access based on predefined time schedules. 
+__Project Title:__The Time-Driven Access Control System is an embedded security solution that regulates access based on predefined time schedules. 
 
 *OBJECTIVE:* 
 1. Display RTC information (date, time and day) on an LCD. 
