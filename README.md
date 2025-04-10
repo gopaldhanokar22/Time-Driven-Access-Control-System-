@@ -81,11 +81,12 @@ __Hardware Simulation:__
 
 
 
-__Project Code:__\
+__Project Code:__
 1. main.c
 ```
 xyz
 ```
+
 
 2. main_test.c
 ```
@@ -102,4 +103,26 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![WhatsApp Image 2025-04-10 at 09 57 56_6ea9805b](https://github.com/user-attachments/assets/fe652286-c0c0-4beb-bc38-34d668313ca9)
+
+![WhatsApp Image 2025-04-10 at 09 57 56_803a73f0](https://github.com/user-attachments/assets/846c7b7a-3569-4c47-bfe6-4ad881b643c2)
+
+![WhatsApp Image 2025-04-10 at 09 57 55_27d0c8e3](https://github.com/user-attachments/assets/299c7ddc-a93e-4c4c-92f0-e3070c9a9eb9)
+
+![WhatsApp Image 2025-04-10 at 09 57 55_fbb93ce2](https://github.com/user-attachments/assets/9c15b03b-9900-4d96-a3b3-05672404ec95)
+
+
+__Project Code:__
+1. main_1.c
+```
+xyz
+```
+
+
+2. main_test_1.c
+```
+xyz
+```
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
