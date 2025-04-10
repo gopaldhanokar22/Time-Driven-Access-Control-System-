@@ -93,7 +93,8 @@ xyz
 xyz
 ```
 
-__Project Improvement:__
+
+#__Project Improvement:__
 1. Show Scheduled Time to another admin also LCD
 2. Change LCD 16*2 to 20*4 (more Display Area for Better UI and Improved Professional Presentation)
 
