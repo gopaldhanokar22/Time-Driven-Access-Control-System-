@@ -72,9 +72,13 @@ __Hardware Simulation:__
 
 ![WhatsApp Image 2025-04-10 at 09 35 57_e37b8d55](https://github.com/user-attachments/assets/1110f5a7-f0d4-48d5-abff-b974f65e7eaf)
 
+![WhatsApp Image 2025-04-10 at 09 35 47_1c9f21fa](https://github.com/user-attachments/assets/3b1233ed-4427-41c1-a5b2-3346102539f7)
+
 ![WhatsApp Image 2025-04-10 at 09 35 47_8800ac2c](https://github.com/user-attachments/assets/5f6a3ea9-d46c-4997-825f-c02bee04c4fd)
 
 ![WhatsApp Image 2025-04-10 at 09 35 51_4bf3ead6](https://github.com/user-attachments/assets/052a72bf-2e5b-435d-9e51-328e9ac3f4b0)
+
+
 
 
 __Project Code:__\
@@ -83,10 +87,19 @@ __Project Code:__\
 xyz
 ```
 
-2.main_test.c
+2. main_test.c
 ```
 xyz
 ```
 
 __Project Improvement:__
+1. Show Scheduled Time to another admin also LCD
+2. Change LCD 16*2 to 20*4 (more Display Area for Better UI and Improved Professional Presentation)
+
+__Software Simulation:__
+
+![image](https://github.com/user-attachments/assets/abf0d0e8-0d92-4e44-b51f-5b9db93a11b4)
+
+__Hardware Simulation:__
+
 
