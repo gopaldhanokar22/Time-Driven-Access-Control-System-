@@ -16,7 +16,7 @@ __Block Diagram:__
 
 __Hardware Requirements:__ 
  - LPC2148 
- - 16x2 LCD 
+ - 16x2 and 20x4 LCD 
  - 4x4 matrix keypad 
  - Buzzer/LED 
  - Switches 
@@ -305,7 +305,7 @@ int main()
 
 # __Project Improvement:__
 1. Show Scheduled Time to another admin also LCD
-2. Change LCD 16*2 to 20*4 (more Display Area for Better UI and Improved Professional Presentation)
+2. Change LCD 16x2 to 20x4 (more Display Area for Better UI and Improved Professional Presentation)
 
 __Software Simulation:__
 
