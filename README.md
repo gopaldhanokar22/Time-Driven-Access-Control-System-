@@ -22,7 +22,7 @@ __Hardware Requirements:__
  - USB-UART converter / DB-9 cable 
 
 __Software Requirements:__
- - Embedded-C programming 
+ - Keil uVision 
  - Flash Magic
  - Proteus
 
@@ -40,9 +40,20 @@ Switches and Led Connection:
 2. switch 2----> LPC2148 P0.1
 3. Led --------> LPC2148 P0.5
 
+__Software Flow:__ 
+1. Initialize system: RTC, LCD, Keypad, and Buzzer/Led. 
+2. Display current time, date and day on LCD. 
+3. Allow user to enter the password based on switch1 press.   
+4. After switch1 is pressed, user has to enter the password from the 4x4 matrix keypad. If the password is matched with the current/updated password, then check the scheduled time. If correct/updated password is entered with in the scheduled time, then give the access for the security system. 
+5. If user want to edit the RTC information and schedule time, then need to generate the interrupt by pressing switch2. Based on the interrupt request below mentioned menu will display. 
+      1. Edit RTC Info 
+      2. Edit Schedule Time 
+      3. Exit 
+6. Editing process need to follow as per the user requirement. 
+7. After editing, again application program will start running from step2. 
 
 __Software Simulation:__
 
 ![image](https://github.com/user-attachments/assets/40461195-135f-4916-9db3-96f510c1e67d)
 
-__
+__Hardware Simulation:__
