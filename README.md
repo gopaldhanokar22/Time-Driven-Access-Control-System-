@@ -26,7 +26,20 @@ __Software Requirements:__
  - Flash Magic
  - Proteus
 
-__Hardare Connection:__
+__Hardare Connection:__\
+Keypad Connection:
+
+![image](https://github.com/user-attachments/assets/50041eea-8f15-4202-a809-4415c3fb5960)
+
+Lcd Connections:
+
+![image](https://github.com/user-attachments/assets/37cffa9f-efba-4a85-9b15-7a7fe9b33177)
+
+Switches and Led Connection:
+1. switch 1----> LPC2148 P0.0
+2. switch 2----> LPC2148 P0.1
+3. Led --------> LPC2148 P0.5
+
 
 __Software Simulation:__
 
